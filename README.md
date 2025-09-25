@@ -11,5 +11,5 @@ python Exploit.py --ip TARGET_IP --password PASSWORD
 ! Replace TARGET_IP and PASSWORD
 
 # CVE-2025-56241
-[NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-56241)
+[NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-56241)<br>
 [Advisory](https://gist.github.com/amirhosseinjamshidi64/cca123a0dda5a17f3708ffc2dd2a7a45)
